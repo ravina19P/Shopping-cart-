@@ -1,0 +1,118 @@
+.vertical-line {
+    border-right: 1px solid #ccc !important;
+    margin: 0 10px;
+}
+
+.border {
+    border-bottom: #7E7E7E;
+}
+
+.searchbarborder {
+    border: none;
+}
+
+.header-style {
+    border: 2px solid #BCE3C9;
+    border-radius: 4px;
+    max-width: 700px;
+    background-color: #fff;
+}
+
+.hearspacing {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header-style {
+    margin-left: 50px;
+}
+
+.header-style .nav-link {
+    margin: 10px;
+}
+
+.header-style .dropdown-menu {
+    margin: 10px;
+}
+
+.header-style .searchboxHear {
+    margin: 10px;
+}
+
+.heder-icons {
+    margin-left: 50px;
+}
+
+.circle-badge {
+    position: absolute;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #3BB77E;
+    text-align: center;
+    line-height: 25px;
+    top: 20px;
+}
+
+.circle-badge sup {
+    color: white;
+    position: relative;
+}
+
+.heder3 {
+    background-color: #3BB77E !important;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-right: 15px;
+}
+
+.supportblock {
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    text-align: right;
+}
+
+.supportblock p {
+    color: #3BB77E !important;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.supportblock p span {
+    font-weight: 500;
+    font-size: 12px;
+    font-family: "Lato", sans-serif;
+    color: #7E7E7E;
+    display: block;
+    letter-spacing: 0.9px;
+}
+.Home{
+    color: #3BB77E !important;
+}
+.linkheaders li{
+    margin: 15px;
+    font-weight: 700;
+}
+.linkheaders .nav-link:hover {
+    color: #3BB77E !important;
+}
+.navbar {
+    margin-left: 10px; 
+    margin-right: 10px; 
+}
+
+.navbar-wrapper {
+    height: 100px; 
+}
+
+.sticky-navbar {
+    position: sticky !important;
+    top: 0;
+    z-index: 1000;
+}
